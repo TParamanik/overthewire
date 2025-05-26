@@ -11,4 +11,5 @@ cat readme
 ```
 
 Then we will get the password for the next level.
-"ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
+
+Password: "ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
