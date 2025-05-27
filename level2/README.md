@@ -1,17 +1,15 @@
-Close the previous connection.
-And start a connection using the command:
-```bash
-ssh bandit1@bandit.labs.overthewire.org -p 2220
-```
-
-And then enter the password that we got in level1.
-
-Search for files using command "ls" and we will see that there is file named "-".
-
-To read the content we need to run the command:
+Start a new connection with the command
 
 ```bash
-cat ./-
+ssh bandit2@bandit.labs.overthewire.org -p 2220
 ```
 
-Then we will get the password: "263JGJPfgU6LtdEvgfWU1XP5yac29mFx"
+then search for the files using command "ls".
+
+To read the file which has spaces in the name, we need to run:
+
+```bash
+cat "spaces in this filename"
+```
+
+Then we will get the password: "MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx"
