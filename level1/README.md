@@ -1,5 +1,6 @@
 Close the previous connection.
 And start a connection using the command:
+
 ```bash
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 ```
