@@ -7,3 +7,5 @@ sort data.txt | uniq -u
 
 First sort will organize all lines so that duplicates are next to each other
 uniq -u: removes repetition and displays the lines exactly once
+
+Password: "4CKMh1JI91bUIZZPXDqGanal4xvAg0JM"
