@@ -1,9 +1,9 @@
 Repeat the steps to establish connection and use the password found in previous level.
 Now this level requires some properties:
 
-> owned by user bandit7
-> owned by group bandit6
-> 33 bytes in size
+- owned by user bandit7
+- owned by group bandit6
+- 33 bytes in size
 
 So I used this command:
 
